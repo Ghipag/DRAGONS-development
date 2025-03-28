@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['classifier_0',['Classifier',['../classvariability__definition__2_1_1_classifier.html',1,'variability_definition_2']]],
+  ['classifier_1',['CLASSIFIER',['../classvariability__definition__2_1_1_c_l_a_s_s_i_f_i_e_r.html',1,'variability_definition_2']]],
+  ['clear_5fdatabase_2',['clear_database',['../namespacedatabase__tools.html#af82624743bc3cfa6f908a8da421536d3',1,'database_tools']]],
+  ['collect_5fperspective_5fagainst_5fframework_3',['collect_perspective_against_framework',['../namespacevariability__framework__testing.html#a769bdd4420ee11a6a886cb03f5551ab8',1,'variability_framework_testing']]],
+  ['compare_5fnodes_4',['compare_nodes',['../namespacedesign__comparison.html#a8e6bd39652ba1724db5f3af8703e998a',1,'design_comparison']]],
+  ['comparison_5',['Comparison',['../classvariability__definition__2_1_1_comparison.html',1,'variability_definition_2']]],
+  ['comparison_5fdata_5finterface_6',['Comparison_DATA_INTERFACE',['../classvariability__definition__2_1_1_comparison___d_a_t_a___i_n_t_e_r_f_a_c_e.html',1,'variability_definition_2']]],
+  ['comparison_5fdiff_5fcount_5ficile_5fplots_7',['comparison_diff_count_icile_plots',['../namespacegraph__plotting.html#a4987d01acdfbd34d21158b4e5193a095',1,'graph_plotting']]],
+  ['comparison_5fdiff_5fcount_5fpie_5fcharts_8',['comparison_diff_count_pie_charts',['../namespacegraph__plotting.html#afdd5ef8bc44843a67a354cc8177bfeec',1,'graph_plotting']]],
+  ['comparison_5fdiff_5fcount_5fsankey_5fdiagrams_9',['comparison_diff_count_sankey_diagrams',['../namespacegraph__plotting.html#ae63b5780a58788cca29c68bcd232ea0b',1,'graph_plotting']]],
+  ['comparison_5ffluid_5finterface_10',['Comparison_FLUID_INTERFACE',['../classvariability__definition__2_1_1_comparison___f_l_u_i_d___i_n_t_e_r_f_a_c_e.html',1,'variability_definition_2']]],
+  ['comparison_5flocation_5fin_5fdesign_11',['COMPARISON_LOCATION_IN_DESIGN',['../classvariability__definition__2_1_1_c_o_m_p_a_r_i_s_o_n___l_o_c_a_t_i_o_n___i_n___d_e_s_i_g_n.html',1,'variability_definition_2.COMPARISON_LOCATION_IN_DESIGN'],['../classvariability__definition__3_1_1_c_o_m_p_a_r_i_s_o_n___l_o_c_a_t_i_o_n___i_n___d_e_s_i_g_n.html',1,'variability_definition_3.COMPARISON_LOCATION_IN_DESIGN']]],
+  ['comparison_5fmechanical_5finterface_12',['Comparison_MECHANICAL_INTERFACE',['../classvariability__definition__2_1_1_comparison___m_e_c_h_a_n_i_c_a_l___i_n_t_e_r_f_a_c_e.html',1,'variability_definition_2']]],
+  ['comparison_5fmultiplicity_13',['Comparison_Multiplicity',['../classvariability__definition__2_1_1_comparison___multiplicity.html',1,'variability_definition_2']]],
+  ['comparison_5fparent_14',['Comparison_PARENT',['../classvariability__definition__2_1_1_comparison___p_a_r_e_n_t.html',1,'variability_definition_2']]],
+  ['comparison_5fpower_5finterface_15',['Comparison_POWER_INTERFACE',['../classvariability__definition__2_1_1_comparison___p_o_w_e_r___i_n_t_e_r_f_a_c_e.html',1,'variability_definition_2']]],
+  ['comparison_5frecord_16',['comparison_record',['../classdesign__comparison_1_1comparison__record.html',1,'design_comparison']]],
+  ['comparison_5fthermal_5finterface_17',['Comparison_THERMAL_INTERFACE',['../classvariability__definition__2_1_1_comparison___t_h_e_r_m_a_l___i_n_t_e_r_f_a_c_e.html',1,'variability_definition_2']]],
+  ['comparison_5fvalue_18',['Comparison_Value',['../classvariability__definition__2_1_1_comparison___value.html',1,'variability_definition_2']]],
+  ['convert_5fapriori_5frules_19',['convert_apriori_rules',['../namespacevariability__framework__testing.html#a3d2bde645544991fb8c0d3b3880fa817',1,'variability_framework_testing']]],
+  ['create_5fvalid_5frelationship_20',['create_valid_relationship',['../namespaceontology__checking.html#a1ca4e576f27d9ec94b388654d2061967',1,'ontology_checking']]]
+];

@@ -1,0 +1,41 @@
+<map id="variability_framework_core.Relationship.__call__" name="variability_framework_core.Relationship.__call__">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1788,146,1848"/>
+<area shape="rect" id="node2" href="$classvariability__definition__1_1_1_own.html#ae37b18113c971978e5b33c6e4f6f8eee" title=" " alt="" coords="257,29,389,73"/>
+<area shape="rect" id="node3" href="$classvariability__definition__1_1_1_be_child_of.html#ae25decba2a7528670982e16fc6314ee1" title=" " alt="" coords="246,121,400,165"/>
+<area shape="rect" id="node4" href="$classvariability__definition__1_1_1_relate_to.html#a454560c1e8d5f622f44d850dda142d4c" title=" " alt="" coords="250,213,396,257"/>
+<area shape="rect" id="node5" href="$classvariability__definition__2_1_1_c_l_a_s_s_i_f_i_e_r.html#a484b3f60dbdb86970c415ccc209ef31d" title=" " alt="" coords="238,305,408,349"/>
+<area shape="rect" id="node6" href="$classvariability__definition__2_1_1_c_o_m_p_a_r_i_s_o_n___l_o_c_a_t_i_o_n___i_n___d_e_s_i_g_n.html#af70095b25904a16262d4d3c8809ec408" title=" " alt="" coords="224,397,422,457"/>
+<area shape="rect" id="node7" href="$classvariability__definition__2_1_1_p_a_r_e_n_t___c_o_m_p_a_r_i_s_o_n.html#afb783364aa9b51b8ca728c6e4408bb12" title=" " alt="" coords="202,505,444,549"/>
+<area shape="rect" id="node8" href="$classvariability__definition__2_1_1_d_i_s_c_o_v_e_r_e_d___b_y.html#ae08d19c095dd6e1f312ada3898bf300d" title=" " alt="" coords="220,597,426,641"/>
+<area shape="rect" id="node9" href="$classvariability__definition__2_1_1_d_a_t_a___i_n_t_e_r_f_a_c_e.html#a24473e1868572688e080749fb4059d94" title=" " alt="" coords="219,689,427,733"/>
+<area shape="rect" id="node10" href="$classvariability__definition__2_1_1_d_i_f_f_e_r_e_n_c_e___l_o_c_a_t_i_o_n___i_n___d_e_s_i_g_n.html#a495008981191271a8a06c002c625ec5d" title=" " alt="" coords="227,781,419,841"/>
+<area shape="rect" id="node11" href="$classvariability__definition__2_1_1_f_l_u_i_d___i_n_t_e_r_f_a_c_e.html#ab77a57f0adcd4dc7d344487b2e59126f" title=" " alt="" coords="218,889,428,933"/>
+<area shape="rect" id="node12" href="$classvariability__definition__2_1_1_m_e_c_h_a_n_i_c_a_l___i_n_t_e_r_f_a_c_e.html#af8afc12ec89275857e2099a6d077bc7c" title=" " alt="" coords="194,981,452,1025"/>
+<area shape="rect" id="node13" href="$classvariability__definition__2_1_1_p_a_r_e_n_t.html#ae093ef1a2be55ca86f16b44808a627e5" title=" " alt="" coords="249,1073,397,1117"/>
+<area shape="rect" id="node14" href="$classvariability__definition__2_1_1_p_o_w_e_r___i_n_t_e_r_f_a_c_e.html#a0c9f71ac98e2551206c983288df27604" title=" " alt="" coords="211,1165,435,1209"/>
+<area shape="rect" id="node15" href="$classvariability__definition__2_1_1_t_h_e_r_m_a_l___i_n_t_e_r_f_a_c_e.html#ada0233e251c41f97e58dfd94d46147dc" title=" " alt="" coords="205,1257,441,1301"/>
+<area shape="rect" id="node16" href="$classvariability__definition__3_1_1_c_o_m_p_a_r_i_s_o_n___l_o_c_a_t_i_o_n___i_n___d_e_s_i_g_n.html#a45045aecb10612e2a03788e33a4bf18b" title=" " alt="" coords="224,1349,422,1409"/>
+<area shape="rect" id="node17" href="$classvariability__definition__3_1_1_p_a_r_e_n_t___c_o_m_p_a_r_i_s_o_n.html#abe00ad33136f03789bc6a2f27b08caf5" title=" " alt="" coords="202,1457,444,1501"/>
+<area shape="rect" id="node18" href="$classvariability__definition__3_1_1_d_i_s_c_o_v_e_r_e_d___b_y.html#a329758154f13c3db90d2247606860015" title=" " alt="" coords="220,1549,426,1593"/>
+<area shape="rect" id="node19" href="$classvariability__definition__3_1_1_d_i_f_f_e_r_e_n_c_e___l_o_c_a_t_i_o_n___i_n___d_e_s_i_g_n.html#ac30b575dd2b55f9af9b94ca8943d023d" title=" " alt="" coords="227,1641,419,1701"/>
+<area shape="rect" id="node20" href="$classvariability__framework__core_1_1_relationship.html#a3115046484ebec5223afeedb7ffcdf06" title=" " alt="" coords="231,1749,415,1793"/>
+<area shape="rect" id="node21" href="$classvariability__definition__1_1_1_own.html#a6a5bd53b115eedf8c546c06a814b4c0b" title=" " alt="" coords="257,1841,389,1885"/>
+<area shape="rect" id="node22" href="$classvariability__definition__1_1_1_be_child_of.html#a0349f6ecff7695a02795b58072689ad2" title=" " alt="" coords="254,1933,392,1977"/>
+<area shape="rect" id="node23" href="$classvariability__definition__1_1_1_relate_to.html#a77da4a667bac66f71b3b5fe436fc9a32" title=" " alt="" coords="257,2025,389,2069"/>
+<area shape="rect" id="node24" href="$classvariability__definition__2_1_1_c_l_a_s_s_i_f_i_e_r.html#aa20af50ddd440f35f4c7f50f2301eea2" title=" " alt="" coords="246,2117,400,2161"/>
+<area shape="rect" id="node25" href="$classvariability__definition__2_1_1_c_o_m_p_a_r_i_s_o_n___l_o_c_a_t_i_o_n___i_n___d_e_s_i_g_n.html#a74d67c4939c44bf025b18e9bacb5ca1a" title=" " alt="" coords="224,2209,422,2269"/>
+<area shape="rect" id="node26" href="$classvariability__definition__2_1_1_p_a_r_e_n_t___c_o_m_p_a_r_i_s_o_n.html#a261146b238b0bbb1f03335ee689f7c61" title=" " alt="" coords="210,2317,436,2361"/>
+<area shape="rect" id="node27" href="$classvariability__definition__2_1_1_d_i_s_c_o_v_e_r_e_d___b_y.html#ab7a616f81a8664c89a5bcad9cc969bd9" title=" " alt="" coords="228,2409,418,2453"/>
+<area shape="rect" id="node28" href="$classvariability__definition__2_1_1_d_a_t_a___i_n_t_e_r_f_a_c_e.html#aba960c95a37a1dacad690ac282c66d0c" title=" " alt="" coords="227,2501,419,2545"/>
+<area shape="rect" id="node29" href="$classvariability__definition__2_1_1_d_i_f_f_e_r_e_n_c_e___l_o_c_a_t_i_o_n___i_n___d_e_s_i_g_n.html#a6bfe1d58eac6c688d4bdf947e4d3e4e2" title=" " alt="" coords="227,2593,419,2653"/>
+<area shape="rect" id="node30" href="$classvariability__definition__2_1_1_f_l_u_i_d___i_n_t_e_r_f_a_c_e.html#a4bcdc65a42523ba0e52c67f11a395472" title=" " alt="" coords="226,2701,420,2745"/>
+<area shape="rect" id="node31" href="$classvariability__definition__2_1_1_m_e_c_h_a_n_i_c_a_l___i_n_t_e_r_f_a_c_e.html#adc607a6fd03f0880545bded509fdd683" title=" " alt="" coords="202,2793,444,2837"/>
+<area shape="rect" id="node32" href="$classvariability__definition__2_1_1_p_a_r_e_n_t.html#ae8b60d3b5443d0817afd201d88402c5e" title=" " alt="" coords="257,2885,389,2929"/>
+<area shape="rect" id="node33" href="$classvariability__definition__2_1_1_p_o_w_e_r___i_n_t_e_r_f_a_c_e.html#af442ca86a71da4e4735b71f1e22f7551" title=" " alt="" coords="219,2977,427,3021"/>
+<area shape="rect" id="node34" href="$classvariability__definition__2_1_1_t_h_e_r_m_a_l___i_n_t_e_r_f_a_c_e.html#a73dfc3b787a0865db2d0492e867d3533" title=" " alt="" coords="213,3069,433,3113"/>
+<area shape="rect" id="node35" href="$classvariability__definition__3_1_1_c_o_m_p_a_r_i_s_o_n___l_o_c_a_t_i_o_n___i_n___d_e_s_i_g_n.html#a6fe497b858f95030bc3fb1563e551d44" title=" " alt="" coords="224,3161,422,3221"/>
+<area shape="rect" id="node36" href="$classvariability__definition__3_1_1_p_a_r_e_n_t___c_o_m_p_a_r_i_s_o_n.html#abf298256e39a7a29252bf9aa93c8f7bd" title=" " alt="" coords="210,3269,436,3313"/>
+<area shape="rect" id="node37" href="$classvariability__definition__3_1_1_d_i_s_c_o_v_e_r_e_d___b_y.html#a1bd60253bf826ae4ac2f98b8a0069d95" title=" " alt="" coords="228,3361,418,3405"/>
+<area shape="rect" id="node38" href="$classvariability__definition__3_1_1_d_i_f_f_e_r_e_n_c_e___l_o_c_a_t_i_o_n___i_n___d_e_s_i_g_n.html#a4cd62eb35c957a14dd8b9f0f132cc457" title=" " alt="" coords="227,3453,419,3513"/>
+<area shape="rect" id="node39" href="$classvariability__framework__core_1_1_relationship.html#a28f3c1573ee69457a512bb28efe96707" title=" " alt="" coords="239,3561,407,3605"/>
+</map>

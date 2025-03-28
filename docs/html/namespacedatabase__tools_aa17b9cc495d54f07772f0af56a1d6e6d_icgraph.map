@@ -1,0 +1,39 @@
+<map id="database_tools.get_batches" name="database_tools.get_batches">
+<area shape="rect" id="node1" title=" " alt="" coords="1764,976,1895,1020"/>
+<area shape="rect" id="node2" href="$namespacedatabase__tools.html#a454838dc9f62c652c451c7c8d2c6274f" title=" " alt="" coords="1585,976,1716,1020"/>
+<area shape="rect" id="node3" href="$namespacevariability__framework__testing.html#a769bdd4420ee11a6a886cb03f5551ab8" title="This module provides tools for testing collected differences against a particular variability framewo..." alt="" coords="1354,132,1536,192"/>
+<area shape="rect" id="node9" href="$namespacegraph__plotting.html#ae63b5780a58788cca29c68bcd232ea0b" title=" " alt="" coords="1108,772,1300,816"/>
+<area shape="rect" id="node10" href="$namespacedesign__comparison.html#a14faaab11e465e9b9830bf16750b5272" title=" " alt="" coords="867,801,1054,845"/>
+<area shape="rect" id="node12" href="$namespaceontology__checking.html#a1ca4e576f27d9ec94b388654d2061967" title=" " alt="" coords="1360,1399,1530,1443"/>
+<area shape="rect" id="node13" href="$namespaceontology__checking.html#a7ff0d5cf1950e2fcb5f4a79cf49a1bcc" title=" " alt="" coords="1114,1325,1293,1369"/>
+<area shape="rect" id="node14" href="$namespacedata__extraction.html#a0c15fe4571e80f8fa573080b2c0018e7" title=" " alt="" coords="880,1325,1041,1369"/>
+<area shape="rect" id="node16" href="$namespacedesign__comparison.html#aa063f94e8b367a3849edf1cfb021c38a" title=" " alt="" coords="388,976,541,1020"/>
+<area shape="rect" id="node18" href="$namespacegraph__export.html#aaab92cc4f40f66b3dfa4ff929a81a86d" title=" " alt="" coords="1359,536,1531,580"/>
+<area shape="rect" id="node20" href="$namespacegraph__export.html#a726beb4174e2599c79e8fbeface5a25d" title=" " alt="" coords="1373,628,1517,672"/>
+<area shape="rect" id="node21" href="$namespacedesign__comparison.html#acb89d011d4676785f8bd27ea301a4cb0" title=" " alt="" coords="871,341,1050,385"/>
+<area shape="rect" id="node22" href="$namespacedesign__comparison.html#a70922722ca991b588bb7830762b59950" title=" " alt="" coords="602,409,814,437"/>
+<area shape="rect" id="node23" href="$namespacedesign__comparison.html#ad929b301371f59cb3a49c1c203152902" title=" " alt="" coords="1353,916,1537,960"/>
+<area shape="rect" id="node24" href="$namespacedesign__comparison.html#a8239fc42ebbec0f650df72ee4db80b13" title=" " alt="" coords="871,485,1050,529"/>
+<area shape="rect" id="node25" href="$namespacedesign__comparison.html#acbb3af6f293f867ea05af519d6186ed1" title=" " alt="" coords="1356,1060,1534,1104"/>
+<area shape="rect" id="node26" href="$namespacedesign__comparison.html#adb12b279e30cb3a873c570fe653c6674" title=" " alt="" coords="1356,240,1534,284"/>
+<area shape="rect" id="node27" href="$namespacedesign__comparison.html#af3e23e914f00ae67013f769da0c8f06d" title=" " alt="" coords="1102,249,1305,293"/>
+<area shape="rect" id="node29" href="$namespacedesign__comparison.html#ad27e74d802cf376a6c57a58af4e87efb" title=" " alt="" coords="1356,1255,1534,1299"/>
+<area shape="rect" id="node30" href="$namespacedata__extraction.html#a433e9a28284f8601b2629187d5a0007e" title=" " alt="" coords="1113,1561,1295,1605"/>
+<area shape="rect" id="node31" href="$namespacedata__extraction.html#a5b890c699b451cd92d42b48045007141" title=" " alt="" coords="379,1443,549,1487"/>
+<area shape="rect" id="node32" href="$namespacedata__extraction.html#ad71fae2de0fa13ce076bcb151f40d8c3" title=" " alt="" coords="1124,1653,1284,1697"/>
+<area shape="rect" id="node33" href="$namespacedata__extraction.html#a32e30d27699c7d767f5d47b0ef895878" title=" " alt="" coords="1116,1745,1292,1789"/>
+<area shape="rect" id="node34" href="$namespacedatabase__tools.html#a228c3b33ee4d871f11e1ea19b6c3645f" title=" " alt="" coords="1365,1593,1525,1637"/>
+<area shape="rect" id="node35" href="$namespacedatabase__tools.html#a3e8c1466d8ba9cacd604abbad870a407" title=" " alt="" coords="1361,1788,1529,1832"/>
+<area shape="rect" id="node36" href="$namespaceontology__checking.html#a6b63ed165121eae4c388b9606495cca5" title=" " alt="" coords="1128,1224,1279,1268"/>
+<area shape="rect" id="node37" href="$namespacegraph__plotting.html#a7d8563f5c3c2486b866f70de7c62a87d" title=" " alt="" coords="1369,772,1521,816"/>
+<area shape="rect" id="node4" href="$namespacevariability__framework__testing.html#a96a2bdceace313032a3e3acbbb02183e" title=" " alt="" coords="1117,29,1290,89"/>
+<area shape="rect" id="node7" href="$namespacevariability__framework__testing.html#aedd7e5353508dd4c023e1f9f1b8fafd0" title=" " alt="" coords="1121,137,1286,197"/>
+<area shape="rect" id="node5" href="$namespacevariability__framework__testing.html#a677bd4a932d2e7924523139d9c39658d" title=" " alt="" coords="873,29,1048,89"/>
+<area shape="rect" id="node6" href="$namespacevariability__framework__testing.html#a379c7fbb14b4d0023d47fe0b6b1bfc13" title=" " alt="" coords="638,37,778,81"/>
+<area shape="rect" id="node8" href="$namespacevariability__framework__testing.html#ae7ab3eaf4d2725ef1cca89da8a0accf7" title=" " alt="" coords="884,137,1037,197"/>
+<area shape="rect" id="node11" href="$namespacedesign__comparison.html#abb23457bc370dfa8fc5d044dddb43842" title=" " alt="" coords="597,801,819,845"/>
+<area shape="rect" id="node15" href="$namespacemain.html#af613cea4cba4fb7de8e40896b3368945" title=" " alt="" coords="5,1507,87,1535"/>
+<area shape="rect" id="node17" href="$namespacedesign__comparison.html#aff90fb215279476a86bfacc55c437ddd" title=" " alt="" coords="135,1127,331,1171"/>
+<area shape="rect" id="node19" href="$namespacegraph__export.html#abb524305c468ea163dbb6fbc884ab23c" title=" " alt="" coords="1119,583,1289,627"/>
+<area shape="rect" id="node28" href="$namespacedesign__comparison.html#a8e6bd39652ba1724db5f3af8703e998a" title=" " alt="" coords="867,249,1054,293"/>
+</map>

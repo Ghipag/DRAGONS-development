@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['parameter_0',['Parameter',['../classvariability__definition__2_1_1_parameter.html',1,'variability_definition_2']]],
+  ['parent_1',['PARENT',['../classvariability__definition__2_1_1_p_a_r_e_n_t.html',1,'variability_definition_2']]],
+  ['parent_5fcomparison_2',['PARENT_COMPARISON',['../classvariability__definition__2_1_1_p_a_r_e_n_t___c_o_m_p_a_r_i_s_o_n.html',1,'variability_definition_2.PARENT_COMPARISON'],['../classvariability__definition__3_1_1_p_a_r_e_n_t___c_o_m_p_a_r_i_s_o_n.html',1,'variability_definition_3.PARENT_COMPARISON']]],
+  ['parse_5frules_3',['parse_rules',['../classvariability__framework__core_1_1_rules.html#a89f567c2452e201de0a1098a80205eb4',1,'variability_framework_core::Rules']]],
+  ['permission_5flist_4',['permission_list',['../classvariability__framework__core_1_1_rules.html#aea23197ef9657d17ed53b4bad411d92a',1,'variability_framework_core::Rules']]],
+  ['plot_5fsankey_5',['plot_sankey',['../namespacegraph__plotting.html#a7d19d83e29b48e90791a7507e32ab6b1',1,'graph_plotting']]],
+  ['population_5fwide_5fdiff_5falgorithm_6',['population_wide_diff_algorithm',['../namespacedesign__comparison.html#aff90fb215279476a86bfacc55c437ddd',1,'design_comparison']]],
+  ['population_5fwide_5fgenerate_5fcomparison_5fstats_7',['population_wide_generate_comparison_stats',['../namespacedesign__comparison.html#abb23457bc370dfa8fc5d044dddb43842',1,'design_comparison']]],
+  ['power_5finterface_8',['POWER_INTERFACE',['../classvariability__definition__2_1_1_p_o_w_e_r___i_n_t_e_r_f_a_c_e.html',1,'variability_definition_2']]],
+  ['process_5fcomponent_5fclassifier_5fdata_9',['process_component_classifier_data',['../namespacedata__extraction.html#a433e9a28284f8601b2629187d5a0007e',1,'data_extraction']]],
+  ['process_5fcondition_5fclassifier_5fdata_10',['process_condition_classifier_data',['../namespacedata__extraction.html#a5b890c699b451cd92d42b48045007141',1,'data_extraction']]],
+  ['process_5fdesign_5fdata_11',['process_design_data',['../namespacedata__extraction.html#a0c15fe4571e80f8fa573080b2c0018e7',1,'data_extraction']]],
+  ['process_5fmode_5fclassifier_5fdata_12',['process_mode_classifier_data',['../namespacedata__extraction.html#ad71fae2de0fa13ce076bcb151f40d8c3',1,'data_extraction']]],
+  ['process_5fparameter_5fclassifier_5fdata_13',['process_parameter_classifier_data',['../namespacedata__extraction.html#a32e30d27699c7d767f5d47b0ef895878',1,'data_extraction']]],
+  ['process_5frelationships_14',['process_relationships',['../namespacedatabase__tools.html#a228c3b33ee4d871f11e1ea19b6c3645f',1,'database_tools']]],
+  ['process_5frelationships_5fto_5fgeneric_15',['process_relationships_to_generic',['../namespacedatabase__tools.html#a3e8c1466d8ba9cacd604abbad870a407',1,'database_tools']]],
+  ['process_5fvalid_5frelationships_16',['process_valid_relationships',['../namespaceontology__checking.html#a7ff0d5cf1950e2fcb5f4a79cf49a1bcc',1,'ontology_checking']]],
+  ['prohibition_5flist_17',['prohibition_list',['../classvariability__framework__core_1_1_rules.html#a544cb72e65370a8f6655740502f0b360',1,'variability_framework_core::Rules']]],
+  ['property_5fcomparison_18',['property_comparison',['../namespacedesign__comparison.html#a3450cc9e53477b838aa094abb9501aab',1,'design_comparison']]]
+];
