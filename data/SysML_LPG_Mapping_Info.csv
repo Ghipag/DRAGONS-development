@@ -1,0 +1,62 @@
+SysML,LPG
+Class,NONE
+Constellation,NONE
+Current Pointing Target,NONE
+Current Power,Power
+Data Buffer Size,Data_Storage
+Data Packet,NONE
+Data Packet Buffer,NONE
+Data Packet Generation Rate,Data_Generation
+Data Packet Subject,NONE
+Data Packet Timestamp,NONE
+Data Paclet Size,Data_Storage
+Data Rate,Data_Transfer_Rate
+Dependant Variable Declaration,NONE
+Dependant Variable Value,NONE
+Design Space Constraint,NONE
+Design Variable Declaration,NONE
+Design Variable Value,NONE
+Downlink Rate,Data_Transfer_Rate
+Duration,NONE
+Field of View,Field_of_View
+Function,Function
+Function Database,NONE
+Functional Architecture,NONE
+Ground Segment,NONE
+Ground Station,Ground_Station
+Ground Station Network,NONE
+Keplerian Element,Altitude; SMA; Inclination; AOP; Eccentricity; True_Anomaly; RAAN
+Latitude,Position_Latitude
+MBSE Machine,NONE
+Mission Compliance,NONE
+Mission Package,NONE
+Mission Time,NONE
+Mode,Mode
+Model,NONE
+Noise factor,NONE
+Noise Factor declaration,NONE
+Number of Ground Stations,NONE
+Number of Spacecraft,NONE
+Objective Declaration,NONE
+Objective Value,NONE
+Optimisation Engine,NONE
+Orbit,Altitude; SMA; Inclination; AOP; Eccentricity; True_Anomaly; RAAN
+Package,NONE
+Part,Component
+Payload,Payload
+Platform,NONE
+Power Output,Power
+Power State,NONE
+Requirement Values,Requirement_Parameter
+Satellite Ops Center,NONE
+Science Ops Center,NONE
+Space Environment,NONE
+Space Segment,NONE
+Spacecraft,Spacecraft
+Surface Postition,Position_Latitude; Position_Longitude
+System Response Parameter,NONE
+System Response Parameter Declaration,NONE
+Systen Architecture,NONE
+Target,NONE
+Target Sub Area,NONE
+Time of Arrival,NONE
