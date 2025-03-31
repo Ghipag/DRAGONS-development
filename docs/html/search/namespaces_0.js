@@ -1,6 +1,19 @@
 var searchData=
 [
-  ['data_5fextraction_0',['data_extraction',['../namespacedata__extraction.html',1,'']]],
-  ['database_5ftools_1',['database_tools',['../namespacedatabase__tools.html',1,'']]],
-  ['design_5fcomparison_2',['design_comparison',['../namespacedesign__comparison.html',1,'']]]
+  ['data_5fextraction_0',['data_extraction',['../namespacedatabase__interaction_1_1data__extraction.html',1,'database_interaction']]],
+  ['database_5finteraction_1',['database_interaction',['../namespacedatabase__interaction.html',1,'']]],
+  ['database_5ftools_2',['database_tools',['../namespacedatabase__interaction_1_1database__tools.html',1,'database_interaction']]],
+  ['design_5fcomparison_3',['design_comparison',['../namespacedesign__comparison.html',1,'design_comparison'],['../namespacedesign__comparison_1_1design__comparison.html',1,'design_comparison.design_comparison']]],
+  ['design_5fedit_5ftools_4',['design_edit_tools',['../namespacedesign__editing_1_1design__edit__tools.html',1,'design_editing']]],
+  ['design_5fediting_5',['design_editing',['../namespacedesign__editing.html',1,'']]],
+  ['design_5feditor_6',['design_editor',['../namespacedesign__editor.html',1,'']]],
+  ['design_5fplayground_7',['design_playground',['../namespacedesign__playground.html',1,'']]],
+  ['design_5fproblem_5fformulation_8',['design_problem_formulation',['../namespacedesign__problem__formulation.html',1,'']]],
+  ['design_5fproblem_5fquery_5ftools_9',['design_problem_query_tools',['../namespacedesign__problem__formulation_1_1design__problem__query__tools.html',1,'design_problem_formulation']]],
+  ['design_5fproblem_5fquery_5ftools_5fontology_5fbased_10',['design_problem_query_tools_ontology_based',['../namespacedesign__problem__formulation_1_1design__problem__query__tools__ontology__based.html',1,'design_problem_formulation']]],
+  ['llm_5fprompt_5fgeneration_11',['llm_prompt_generation',['../namespacedesign__problem__formulation_1_1llm__prompt__generation.html',1,'design_problem_formulation']]],
+  ['ontology_5fchecking_12',['ontology_checking',['../namespacedatabase__interaction_1_1ontology__checking.html',1,'database_interaction']]],
+  ['product_5fline_5fengineering_13',['product_line_engineering',['../namespacedesign__problem__formulation_1_1product__line__engineering.html',1,'design_problem_formulation']]],
+  ['random_5fdesign_5fgeneration_14',['random_design_generation',['../namespacedesign__problem__formulation_1_1random__design__generation.html',1,'design_problem_formulation']]],
+  ['requirement_5fparsing_15',['requirement_parsing',['../namespacedesign__editing_1_1requirement__parsing.html',1,'design_editing']]]
 ];

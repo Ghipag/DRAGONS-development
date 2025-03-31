@@ -1,11 +1,9 @@
 var searchData=
 [
-  ['design_5fa_5felement_0',['design_A_element',['../classdesign__comparison_1_1difference__record.html#aef3628cb726efc24cd86f12fe256825c',1,'design_comparison::difference_record']]],
-  ['design_5fa_5fname_1',['design_A_name',['../classdesign__comparison_1_1difference__record.html#a38f9eb774ad544078fab6810db18ba5e',1,'design_comparison::difference_record']]],
-  ['design_5fb_5felement_2',['design_B_element',['../classdesign__comparison_1_1difference__record.html#afba0d7c7c9d4e9f809a35e3a21f22b08',1,'design_comparison::difference_record']]],
-  ['design_5fb_5fname_3',['design_B_name',['../classdesign__comparison_1_1difference__record.html#aa342140f216effe59b6f2e9ea0106af2',1,'design_comparison::difference_record']]],
-  ['design_5felements_4',['design_elements',['../classdesign__comparison_1_1comparison__record.html#ad96a2a5c7badde52e80a145027c00fe9',1,'design_comparison::comparison_record']]],
-  ['design_5fnames_5',['design_names',['../classdesign__comparison_1_1comparison__record.html#a7d924af742318204c355cd5d21057cd5',1,'design_comparison::comparison_record']]],
-  ['difference_5fspecifics_6',['difference_specifics',['../classdesign__comparison_1_1difference__record.html#a98f9397a39fe45454c3de066fcdd6a16',1,'design_comparison::difference_record']]],
-  ['discovered_5fdifferences_7',['discovered_differences',['../classdesign__comparison_1_1comparison__record.html#a77690330385d9a3aed26e53b4a81e134',1,'design_comparison::comparison_record']]]
+  ['class_5finference_5fin_5fobject_0',['class_inference_in_object',['../classutils_1_1_config.html#aa28847baa5b846ce93f335f055175804',1,'utils::Config']]],
+  ['classes_1',['classes',['../classontology__viz_1_1_ontology_graph.html#a50e808786668bac3c085e10fe4c99572',1,'ontology_viz::OntologyGraph']]],
+  ['cls_2',['cls',['../classutils_1_1_colors.html#a149e006f6b11f6c3c4b06940b4e52394',1,'utils::Colors']]],
+  ['colors_3',['colors',['../classutils_1_1_config.html#acbc3ca065d24a4a3e567c7a19f76433b',1,'utils::Config']]],
+  ['common_5fns_4',['common_ns',['../namespaceontology__viz.html#aac4692d5ce221915b15521efc896a1ae',1,'ontology_viz']]],
+  ['config_5',['config',['../classontology__viz_1_1_ontology_graph.html#a2a585fbfa9d1352468b63627cd30e44d',1,'ontology_viz.OntologyGraph.config()'],['../namespaceontology__viz.html#ac54216200c488b78a92c5f68e89912b9',1,'ontology_viz.config()']]]
 ];

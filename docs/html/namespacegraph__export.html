@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.2"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Variability Framework: graph_export Namespace Reference</title>
+<title>DRAGONS: graph_export Namespace Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -21,9 +21,9 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">Variability Framework
+   <div id="projectname">DRAGONS
    </div>
-   <div id="projectbrief">Identifacation of various design variability elements</div>
+   <div id="projectbrief">Knowledge-based system architecting</div>
   </td>
  </tr>
  </tbody>
@@ -64,237 +64,18 @@ $(function() {
 </div><!-- top -->
 <div class="header">
   <div class="summary">
-<a href="#func-members">Functions</a>  </div>
+<a href="#namespaces">Namespaces</a>  </div>
   <div class="headertitle"><div class="title">graph_export Namespace Reference</div></div>
 </div><!--header-->
 <div class="contents">
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
-Functions</h2></td></tr>
-<tr class="memitem:a726beb4174e2599c79e8fbeface5a25d"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacegraph__export.html#a726beb4174e2599c79e8fbeface5a25d">export_design_to_edge_list</a> (graph, design_name, file_name)</td></tr>
-<tr class="separator:a726beb4174e2599c79e8fbeface5a25d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaab92cc4f40f66b3dfa4ff929a81a86d"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacegraph__export.html#aaab92cc4f40f66b3dfa4ff929a81a86d">export_comparison_to_edge_list</a> (graph, mission_name, file_name)</td></tr>
-<tr class="separator:aaab92cc4f40f66b3dfa4ff929a81a86d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abb524305c468ea163dbb6fbc884ab23c"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacegraph__export.html#abb524305c468ea163dbb6fbc884ab23c">export_all_designs_to_edge_list</a> (graph, missions_list)</td></tr>
-<tr class="separator:abb524305c468ea163dbb6fbc884ab23c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="namespaces" name="namespaces"></a>
+Namespaces</h2></td></tr>
+<tr class="memitem:namespacegraph__export_1_1graph__export"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacegraph__export_1_1graph__export.html">graph_export</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:namespacegraph__export_1_1graph__plotting"><td class="memItemLeft" align="right" valign="top">namespace &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacegraph__export_1_1graph__plotting.html">graph_plotting</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
-<h2 class="groupheader">Function Documentation</h2>
-<a id="abb524305c468ea163dbb6fbc884ab23c" name="abb524305c468ea163dbb6fbc884ab23c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#abb524305c468ea163dbb6fbc884ab23c">&#9670;&nbsp;</a></span>export_all_designs_to_edge_list()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">def graph_export.export_all_designs_to_edge_list </td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname"><em>graph</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname"><em>missions_list</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<pre class="fragment">@brief Export all designs and comparisons from Neo4j graph database to edge list files.
-
-This function exports all designs and their relationships in the specified missions, as well as comparisons
-between designs, to edge list files for further analysis.
-
-@param graph The Neo4j graph database connection.
-@param missions_list A dictionary containing mission names as keys and lists of designs within each mission as values.
-
-@return None
-
-@pre 'graph' should be a valid Neo4j graph database connection.
-@pre 'missions_list' should be a dictionary where keys are mission names, and values are lists of design names
-     existing in the graph.
-
-@see This function is useful for exporting designs and comparisons from a Neo4j graph database to edge list format,
-     which can be used for various types of analysis.
-</pre> 
-<p class="reference">References <a class="el" href="namespacegraph__export.html#abb524305c468ea163dbb6fbc884ab23c">export_all_designs_to_edge_list()</a>, <a class="el" href="namespacegraph__export.html#aaab92cc4f40f66b3dfa4ff929a81a86d">export_comparison_to_edge_list()</a>, and <a class="el" href="namespacegraph__export.html#a726beb4174e2599c79e8fbeface5a25d">export_design_to_edge_list()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="namespacegraph__export.html#abb524305c468ea163dbb6fbc884ab23c">export_all_designs_to_edge_list()</a>.</p>
-<div class="dynheader">
-Here is the call graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="namespacegraph__export_abb524305c468ea163dbb6fbc884ab23c_cgraph.png" border="0" usemap="#anamespacegraph__export_abb524305c468ea163dbb6fbc884ab23c_cgraph" alt=""/></div>
-<map name="anamespacegraph__export_abb524305c468ea163dbb6fbc884ab23c_cgraph" id="anamespacegraph__export_abb524305c468ea163dbb6fbc884ab23c_cgraph">
-<area shape="rect" title=" " alt="" coords="5,76,176,120"/>
-<area shape="rect" href="namespacegraph__export.html#aaab92cc4f40f66b3dfa4ff929a81a86d" title=" " alt="" coords="224,29,396,73"/>
-<area shape="rect" href="namespacegraph__export.html#a726beb4174e2599c79e8fbeface5a25d" title=" " alt="" coords="238,121,382,165"/>
-<area shape="rect" href="namespacedatabase__tools.html#a454838dc9f62c652c451c7c8d2c6274f" title=" " alt="" coords="444,76,575,120"/>
-<area shape="rect" href="namespacedatabase__tools.html#aa17b9cc495d54f07772f0af56a1d6e6d" title=" " alt="" coords="623,76,755,120"/>
-</map>
-</div>
-<div class="dynheader">
-Here is the caller graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="namespacegraph__export_abb524305c468ea163dbb6fbc884ab23c_icgraph.png" border="0" usemap="#anamespacegraph__export_abb524305c468ea163dbb6fbc884ab23c_icgraph" alt=""/></div>
-<map name="anamespacegraph__export_abb524305c468ea163dbb6fbc884ab23c_icgraph" id="anamespacegraph__export_abb524305c468ea163dbb6fbc884ab23c_icgraph">
-<area shape="rect" title=" " alt="" coords="5,29,176,73"/>
-</map>
-</div>
-
-</div>
-</div>
-<a id="aaab92cc4f40f66b3dfa4ff929a81a86d" name="aaab92cc4f40f66b3dfa4ff929a81a86d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#aaab92cc4f40f66b3dfa4ff929a81a86d">&#9670;&nbsp;</a></span>export_comparison_to_edge_list()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">def graph_export.export_comparison_to_edge_list </td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname"><em>graph</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname"><em>mission_name</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname"><em>file_name</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<pre class="fragment">@brief Export comparisons from a Neo4j graph database to an edge list file.
-
-This function executes Neo4j queries to retrieve comparisons and their relationships to differences and exports them
-as an edge list to a text file.
-
-@param graph The Neo4j graph database connection.
-@param mission_name The name of the mission or comparison group.
-@param file_name The name of the file to which the edge list will be exported.
-
-@return None
-
-@pre 'graph' should be a valid Neo4j graph database connection.
-@pre 'mission_name' should be a valid mission or comparison group name existing in the graph.
-@pre 'file_name' should be a valid file name.
-
-@see This function is useful for exporting comparisons and their relationships from a Neo4j graph database
-     to an edge list format, which can be used for further analysis.
-</pre> 
-<p class="reference">References <a class="el" href="namespacegraph__export.html#aaab92cc4f40f66b3dfa4ff929a81a86d">export_comparison_to_edge_list()</a>, and <a class="el" href="namespacedatabase__tools.html#a454838dc9f62c652c451c7c8d2c6274f">database_tools.run_neo_query()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="namespacegraph__export.html#abb524305c468ea163dbb6fbc884ab23c">export_all_designs_to_edge_list()</a>, and <a class="el" href="namespacegraph__export.html#aaab92cc4f40f66b3dfa4ff929a81a86d">export_comparison_to_edge_list()</a>.</p>
-<div class="dynheader">
-Here is the call graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="namespacegraph__export_aaab92cc4f40f66b3dfa4ff929a81a86d_cgraph.png" border="0" usemap="#anamespacegraph__export_aaab92cc4f40f66b3dfa4ff929a81a86d_cgraph" alt=""/></div>
-<map name="anamespacegraph__export_aaab92cc4f40f66b3dfa4ff929a81a86d_cgraph" id="anamespacegraph__export_aaab92cc4f40f66b3dfa4ff929a81a86d_cgraph">
-<area shape="rect" title=" " alt="" coords="5,29,178,73"/>
-<area shape="rect" href="namespacedatabase__tools.html#a454838dc9f62c652c451c7c8d2c6274f" title=" " alt="" coords="226,29,357,73"/>
-<area shape="rect" href="namespacedatabase__tools.html#aa17b9cc495d54f07772f0af56a1d6e6d" title=" " alt="" coords="405,29,536,73"/>
-</map>
-</div>
-<div class="dynheader">
-Here is the caller graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="namespacegraph__export_aaab92cc4f40f66b3dfa4ff929a81a86d_icgraph.png" border="0" usemap="#anamespacegraph__export_aaab92cc4f40f66b3dfa4ff929a81a86d_icgraph" alt=""/></div>
-<map name="anamespacegraph__export_aaab92cc4f40f66b3dfa4ff929a81a86d_icgraph" id="anamespacegraph__export_aaab92cc4f40f66b3dfa4ff929a81a86d_icgraph">
-<area shape="rect" title=" " alt="" coords="224,29,396,73"/>
-<area shape="rect" href="namespacegraph__export.html#abb524305c468ea163dbb6fbc884ab23c" title=" " alt="" coords="5,29,176,73"/>
-</map>
-</div>
-
-</div>
-</div>
-<a id="a726beb4174e2599c79e8fbeface5a25d" name="a726beb4174e2599c79e8fbeface5a25d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a726beb4174e2599c79e8fbeface5a25d">&#9670;&nbsp;</a></span>export_design_to_edge_list()</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">def graph_export.export_design_to_edge_list </td>
-          <td>(</td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname"><em>graph</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname"><em>design_name</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">&#160;</td>
-          <td class="paramname"><em>file_name</em>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-<pre class="fragment">@brief Export a specific design from a Neo4j graph database to an edge list file.
-
-This function executes a Neo4j query to retrieve the edges of a specific design and exports them as an edge list
-to a text file.
-
-@param graph The Neo4j graph database connection.
-@param design_name The name of the design to export.
-@param file_name The name of the file to which the edge list will be exported.
-
-@return None
-
-@pre 'graph' should be a valid Neo4j graph database connection.
-@pre 'design_name' should be a valid design name existing in the graph.
-@pre 'file_name' should be a valid file name.
-
-@see This function is useful for exporting the edges of a specific design from a Neo4j graph database
-     to an edge list format, which can be used for further analysis.
-</pre> 
-<p class="reference">References <a class="el" href="namespacegraph__export.html#a726beb4174e2599c79e8fbeface5a25d">export_design_to_edge_list()</a>, and <a class="el" href="namespacedatabase__tools.html#a454838dc9f62c652c451c7c8d2c6274f">database_tools.run_neo_query()</a>.</p>
-
-<p class="reference">Referenced by <a class="el" href="namespacegraph__export.html#abb524305c468ea163dbb6fbc884ab23c">export_all_designs_to_edge_list()</a>, and <a class="el" href="namespacegraph__export.html#a726beb4174e2599c79e8fbeface5a25d">export_design_to_edge_list()</a>.</p>
-<div class="dynheader">
-Here is the call graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="namespacegraph__export_a726beb4174e2599c79e8fbeface5a25d_cgraph.png" border="0" usemap="#anamespacegraph__export_a726beb4174e2599c79e8fbeface5a25d_cgraph" alt=""/></div>
-<map name="anamespacegraph__export_a726beb4174e2599c79e8fbeface5a25d_cgraph" id="anamespacegraph__export_a726beb4174e2599c79e8fbeface5a25d_cgraph">
-<area shape="rect" title=" " alt="" coords="5,29,149,73"/>
-<area shape="rect" href="namespacedatabase__tools.html#a454838dc9f62c652c451c7c8d2c6274f" title=" " alt="" coords="197,29,328,73"/>
-<area shape="rect" href="namespacedatabase__tools.html#aa17b9cc495d54f07772f0af56a1d6e6d" title=" " alt="" coords="376,29,507,73"/>
-</map>
-</div>
-<div class="dynheader">
-Here is the caller graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="namespacegraph__export_a726beb4174e2599c79e8fbeface5a25d_icgraph.png" border="0" usemap="#anamespacegraph__export_a726beb4174e2599c79e8fbeface5a25d_icgraph" alt=""/></div>
-<map name="anamespacegraph__export_a726beb4174e2599c79e8fbeface5a25d_icgraph" id="anamespacegraph__export_a726beb4174e2599c79e8fbeface5a25d_icgraph">
-<area shape="rect" title=" " alt="" coords="224,29,367,73"/>
-<area shape="rect" href="namespacegraph__export.html#abb524305c468ea163dbb6fbc884ab23c" title=" " alt="" coords="5,29,176,73"/>
-</map>
-</div>
-
-</div>
-</div>
 </div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>

@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.2"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Variability Framework: mapping_definition_1 Namespace Reference</title>
+<title>DRAGONS: mapping_definition_1 Namespace Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -21,9 +21,9 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">Variability Framework
+   <div id="projectname">DRAGONS
    </div>
-   <div id="projectbrief">Identifacation of various design variability elements</div>
+   <div id="projectbrief">Knowledge-based system architecting</div>
   </td>
  </tr>
  </tbody>
@@ -74,12 +74,14 @@ $(function() {
 Functions</h2></td></tr>
 <tr class="memitem:a3d6c4d56a57e8fd7e6421f9e442bc10e"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacemapping__definition__1.html#a3d6c4d56a57e8fd7e6421f9e442bc10e">lists_overlap</a> (a, b)</td></tr>
 <tr class="separator:a3d6c4d56a57e8fd7e6421f9e442bc10e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad2028e37bf6502b6ef656cd276d5c4a2"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacemapping__definition__1.html#ad2028e37bf6502b6ef656cd276d5c4a2">identify_target_type</a> (target_lables)</td></tr>
-<tr class="separator:ad2028e37bf6502b6ef656cd276d5c4a2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5191496db160f74eafc34992a4292296"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacemapping__definition__1.html#a5191496db160f74eafc34992a4292296">identify_target_types</a> (target_lables)</td></tr>
+<tr class="separator:a5191496db160f74eafc34992a4292296"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ae8d3f4991071af15bf536a9673743039"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacemapping__definition__1.html#ae8d3f4991071af15bf536a9673743039">define_labelled_types</a> ()</td></tr>
 <tr class="separator:ae8d3f4991071af15bf536a9673743039"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a17c20b393aba50afd641e2680acdb125"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacemapping__definition__1.html#a17c20b393aba50afd641e2680acdb125">define_mapped_types</a> ()</td></tr>
 <tr class="separator:a17c20b393aba50afd641e2680acdb125"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac22a26caf2aa312b564c294c53096977"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacemapping__definition__1.html#ac22a26caf2aa312b564c294c53096977">define_pure_labels</a> ()</td></tr>
+<tr class="separator:ac22a26caf2aa312b564c294c53096977"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="var-members" name="var-members"></a>
 Variables</h2></td></tr>
@@ -87,6 +89,8 @@ Variables</h2></td></tr>
 <tr class="separator:ad135353ea9b712a8fa17f258ab0f713d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afe02c7327bf578bfb5e0ea5838df70ad"><td class="memItemLeft" align="right" valign="top">list&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacemapping__definition__1.html#afe02c7327bf578bfb5e0ea5838df70ad">mapped_types</a></td></tr>
 <tr class="separator:afe02c7327bf578bfb5e0ea5838df70ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ada25412ff86a60cd96a1d08e283b26df"><td class="memItemLeft" align="right" valign="top">list&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespacemapping__definition__1.html#ada25412ff86a60cd96a1d08e283b26df">labels</a></td></tr>
+<tr class="separator:ada25412ff86a60cd96a1d08e283b26df"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Function Documentation</h2>
 <a id="ae8d3f4991071af15bf536a9673743039" name="ae8d3f4991071af15bf536a9673743039"></a>
@@ -163,14 +167,51 @@ Here is the caller graph for this function:</div>
 
 </div>
 </div>
-<a id="ad2028e37bf6502b6ef656cd276d5c4a2" name="ad2028e37bf6502b6ef656cd276d5c4a2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad2028e37bf6502b6ef656cd276d5c4a2">&#9670;&nbsp;</a></span>identify_target_type()</h2>
+<a id="ac22a26caf2aa312b564c294c53096977" name="ac22a26caf2aa312b564c294c53096977"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac22a26caf2aa312b564c294c53096977">&#9670;&nbsp;</a></span>define_pure_labels()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">def mapping_definition_1.identify_target_type </td>
+          <td class="memname">def mapping_definition_1.define_pure_labels </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">References <a class="el" href="namespacemapping__definition__1.html#ac22a26caf2aa312b564c294c53096977">define_pure_labels()</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="namespacemapping__definition__1.html#ac22a26caf2aa312b564c294c53096977">define_pure_labels()</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="namespacemapping__definition__1_ac22a26caf2aa312b564c294c53096977_cgraph.png" border="0" usemap="#anamespacemapping__definition__1_ac22a26caf2aa312b564c294c53096977_cgraph" alt=""/></div>
+<map name="anamespacemapping__definition__1_ac22a26caf2aa312b564c294c53096977_cgraph" id="anamespacemapping__definition__1_ac22a26caf2aa312b564c294c53096977_cgraph">
+<area shape="rect" title=" " alt="" coords="5,29,152,73"/>
+</map>
+</div>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="namespacemapping__definition__1_ac22a26caf2aa312b564c294c53096977_icgraph.png" border="0" usemap="#anamespacemapping__definition__1_ac22a26caf2aa312b564c294c53096977_icgraph" alt=""/></div>
+<map name="anamespacemapping__definition__1_ac22a26caf2aa312b564c294c53096977_icgraph" id="anamespacemapping__definition__1_ac22a26caf2aa312b564c294c53096977_icgraph">
+<area shape="rect" title=" " alt="" coords="5,29,152,73"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a5191496db160f74eafc34992a4292296" name="a5191496db160f74eafc34992a4292296"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5191496db160f74eafc34992a4292296">&#9670;&nbsp;</a></span>identify_target_types()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">def mapping_definition_1.identify_target_types </td>
           <td>(</td>
           <td class="paramtype">&#160;</td>
           <td class="paramname"><em>target_lables</em></td><td>)</td>
@@ -179,24 +220,24 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">References <a class="el" href="namespacemapping__definition__1.html#ad2028e37bf6502b6ef656cd276d5c4a2">identify_target_type()</a>, and <a class="el" href="namespacemapping__definition__1.html#a3d6c4d56a57e8fd7e6421f9e442bc10e">lists_overlap()</a>.</p>
+<p class="reference">References <a class="el" href="namespacemapping__definition__1.html#a5191496db160f74eafc34992a4292296">identify_target_types()</a>, and <a class="el" href="namespacemapping__definition__1.html#a3d6c4d56a57e8fd7e6421f9e442bc10e">lists_overlap()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="namespacemapping__definition__1.html#ad2028e37bf6502b6ef656cd276d5c4a2">identify_target_type()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="namespacemapping__definition__1.html#a5191496db160f74eafc34992a4292296">identify_target_types()</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><img src="namespacemapping__definition__1_ad2028e37bf6502b6ef656cd276d5c4a2_cgraph.png" border="0" usemap="#anamespacemapping__definition__1_ad2028e37bf6502b6ef656cd276d5c4a2_cgraph" alt=""/></div>
-<map name="anamespacemapping__definition__1_ad2028e37bf6502b6ef656cd276d5c4a2_cgraph" id="anamespacemapping__definition__1_ad2028e37bf6502b6ef656cd276d5c4a2_cgraph">
-<area shape="rect" title=" " alt="" coords="5,29,158,73"/>
-<area shape="rect" href="namespacemapping__definition__1.html#a3d6c4d56a57e8fd7e6421f9e442bc10e" title=" " alt="" coords="206,29,334,73"/>
+<div class="center"><img src="namespacemapping__definition__1_a5191496db160f74eafc34992a4292296_cgraph.png" border="0" usemap="#anamespacemapping__definition__1_a5191496db160f74eafc34992a4292296_cgraph" alt=""/></div>
+<map name="anamespacemapping__definition__1_a5191496db160f74eafc34992a4292296_cgraph" id="anamespacemapping__definition__1_a5191496db160f74eafc34992a4292296_cgraph">
+<area shape="rect" title=" " alt="" coords="5,29,165,73"/>
+<area shape="rect" href="namespacemapping__definition__1.html#a3d6c4d56a57e8fd7e6421f9e442bc10e" title=" " alt="" coords="213,29,341,73"/>
 </map>
 </div>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><img src="namespacemapping__definition__1_ad2028e37bf6502b6ef656cd276d5c4a2_icgraph.png" border="0" usemap="#anamespacemapping__definition__1_ad2028e37bf6502b6ef656cd276d5c4a2_icgraph" alt=""/></div>
-<map name="anamespacemapping__definition__1_ad2028e37bf6502b6ef656cd276d5c4a2_icgraph" id="anamespacemapping__definition__1_ad2028e37bf6502b6ef656cd276d5c4a2_icgraph">
-<area shape="rect" title=" " alt="" coords="5,29,158,73"/>
+<div class="center"><img src="namespacemapping__definition__1_a5191496db160f74eafc34992a4292296_icgraph.png" border="0" usemap="#anamespacemapping__definition__1_a5191496db160f74eafc34992a4292296_icgraph" alt=""/></div>
+<map name="anamespacemapping__definition__1_a5191496db160f74eafc34992a4292296_icgraph" id="anamespacemapping__definition__1_a5191496db160f74eafc34992a4292296_icgraph">
+<area shape="rect" title=" " alt="" coords="5,29,165,73"/>
 </map>
 </div>
 
@@ -230,7 +271,7 @@ Here is the caller graph for this function:</div>
 
 <p class="reference">References <a class="el" href="namespacemapping__definition__1.html#a3d6c4d56a57e8fd7e6421f9e442bc10e">lists_overlap()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="namespacemapping__definition__1.html#ad2028e37bf6502b6ef656cd276d5c4a2">identify_target_type()</a>, and <a class="el" href="namespacemapping__definition__1.html#a3d6c4d56a57e8fd7e6421f9e442bc10e">lists_overlap()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="namespacemapping__definition__1.html#a5191496db160f74eafc34992a4292296">identify_target_types()</a>, and <a class="el" href="namespacemapping__definition__1.html#a3d6c4d56a57e8fd7e6421f9e442bc10e">lists_overlap()</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -244,8 +285,8 @@ Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="namespacemapping__definition__1_a3d6c4d56a57e8fd7e6421f9e442bc10e_icgraph.png" border="0" usemap="#anamespacemapping__definition__1_a3d6c4d56a57e8fd7e6421f9e442bc10e_icgraph" alt=""/></div>
 <map name="anamespacemapping__definition__1_a3d6c4d56a57e8fd7e6421f9e442bc10e_icgraph" id="anamespacemapping__definition__1_a3d6c4d56a57e8fd7e6421f9e442bc10e_icgraph">
-<area shape="rect" title=" " alt="" coords="206,29,334,73"/>
-<area shape="rect" href="namespacemapping__definition__1.html#ad2028e37bf6502b6ef656cd276d5c4a2" title=" " alt="" coords="5,29,158,73"/>
+<area shape="rect" title=" " alt="" coords="213,29,341,73"/>
+<area shape="rect" href="namespacemapping__definition__1.html#a5191496db160f74eafc34992a4292296" title=" " alt="" coords="5,29,165,73"/>
 </map>
 </div>
 
@@ -263,32 +304,23 @@ Here is the caller graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno">    1</span>=  [<span class="stringliteral">&#39;Comparison&#39;</span>,</div>
-<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span>                     <span class="stringliteral">&#39;Difference&#39;</span>,</div>
-<div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span>                     <span class="stringliteral">&#39;Difference_Value&#39;</span>,</div>
-<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span>                     <span class="stringliteral">&#39;Difference_PARENT&#39;</span>,</div>
-<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span>                     <span class="stringliteral">&#39;Difference_DATA_INTERFACE&#39;</span>,</div>
-<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span>                     <span class="stringliteral">&#39;Difference_FLUID_INTERFACE&#39;</span>,</div>
-<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span>                     <span class="stringliteral">&#39;Difference_MECHANICAL_INTERFACE&#39;</span>,</div>
-<div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span>                     <span class="stringliteral">&#39;Difference_Multiplicity&#39;</span>,</div>
-<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span>                     <span class="stringliteral">&#39;Difference_POWER_INTERFACE&#39;</span>,</div>
-<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span>                     <span class="stringliteral">&#39;Comparison_DATA_INTERFACE&#39;</span>,</div>
-<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span>                     <span class="stringliteral">&#39;Comparison_FLUID_INTERFACE&#39;</span>,</div>
-<div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span>                     <span class="stringliteral">&#39;Comparison_MECHANICAL_INTERFACE&#39;</span>,</div>
-<div class="line"><a id="l00013" name="l00013"></a><span class="lineno">   13</span>                     <span class="stringliteral">&#39;Comparison_Multiplicity&#39;</span>,</div>
-<div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span>                     <span class="stringliteral">&#39;Comparison_PARENT&#39;</span>,</div>
-<div class="line"><a id="l00015" name="l00015"></a><span class="lineno">   15</span>                     <span class="stringliteral">&#39;Comparison_POWER_INTERFACE&#39;</span>,</div>
-<div class="line"><a id="l00016" name="l00016"></a><span class="lineno">   16</span>                     <span class="stringliteral">&#39;Comparison_THERMAL_INTERFACE&#39;</span>,</div>
-<div class="line"><a id="l00017" name="l00017"></a><span class="lineno">   17</span>                     <span class="stringliteral">&#39;Comparison_Value&#39;</span>,</div>
-<div class="line"><a id="l00018" name="l00018"></a><span class="lineno">   18</span>                     <span class="stringliteral">&#39;Design_Element&#39;</span>,</div>
-<div class="line"><a id="l00019" name="l00019"></a><span class="lineno">   19</span>                     <span class="stringliteral">&#39;Parameter&#39;</span>,</div>
-<div class="line"><a id="l00020" name="l00020"></a><span class="lineno">   20</span>                     <span class="stringliteral">&#39;Component&#39;</span>,</div>
-<div class="line"><a id="l00021" name="l00021"></a><span class="lineno">   21</span>                     <span class="stringliteral">&#39;Mode&#39;</span>,</div>
-<div class="line"><a id="l00022" name="l00022"></a><span class="lineno">   22</span>                     <span class="stringliteral">&#39;Condition&#39;</span>,</div>
-<div class="line"><a id="l00023" name="l00023"></a><span class="lineno">   23</span>                     <span class="stringliteral">&#39;Spacecraft&#39;</span>,</div>
-<div class="line"><a id="l00024" name="l00024"></a><span class="lineno">   24</span>                     <span class="stringliteral">&#39;Subsystem&#39;</span>,</div>
-<div class="line"><a id="l00025" name="l00025"></a><span class="lineno">   25</span>                     <span class="stringliteral">&#39;Unit&#39;</span>]</div>
-</div><!-- fragment -->
+
+</div>
+</div>
+<a id="ada25412ff86a60cd96a1d08e283b26df" name="ada25412ff86a60cd96a1d08e283b26df"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ada25412ff86a60cd96a1d08e283b26df">&#9670;&nbsp;</a></span>labels</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">list mapping_definition_1.labels</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">Referenced by <a class="el" href="namespacevariability__framework__tools_1_1variability__framework__compliance__testing.html#a6cbf37e27311ae7a6f35a4d45116d76d">variability_framework_tools.variability_framework_compliance_testing.collect_perspective_against_framework()</a>, <a class="el" href="namespacedesign__problem__formulation_1_1design__problem__query__tools.html#ae0b0284af789454a47a9b85986c3a6d6">design_problem_formulation.design_problem_query_tools.direct_variable_design_context_query()</a>, <a class="el" href="namespacedesign__problem__formulation_1_1design__problem__query__tools__ontology__based.html#aa0d5eb25664afe811ecfc7431149f28c">design_problem_formulation.design_problem_query_tools_ontology_based.direct_variable_design_context_query()</a>, <a class="el" href="namespacedesign__problem__formulation_1_1design__problem__query__tools__ontology__based.html#a177d7728f571a0c00bb4c59ac1c6d7ba">design_problem_formulation.design_problem_query_tools_ontology_based.direct_variable_design_context_query_ontology_based()</a>, <a class="el" href="namespacedesign__editing_1_1design__edit__tools.html#a63277240af40aa60ce1b21663d18147f">design_editing.design_edit_tools.infer_functional_assignments()</a>, <a class="el" href="namespacedesign__editing_1_1design__edit__tools.html#abcd724216cd1a589c89a8b8e743fba1e">design_editing.design_edit_tools.list_sub_class_labels()</a>, <a class="el" href="namespacedesign__problem__formulation_1_1design__problem__query__tools.html#a9fb37c6f1a448d0fc22340bc394ec207">design_problem_formulation.design_problem_query_tools.requirement_context_query()</a>, <a class="el" href="namespacedesign__problem__formulation_1_1design__problem__query__tools__ontology__based.html#a289482d275fe82d3bb80efcf821e889f">design_problem_formulation.design_problem_query_tools_ontology_based.requirement_context_query()</a>, <a class="el" href="namespacedesign__problem__formulation_1_1design__problem__query__tools__ontology__based.html#a593a6174efac9a5704804e91a5da7e4d">design_problem_formulation.design_problem_query_tools_ontology_based.requirement_context_query_ontology_based()</a>, <a class="el" href="namespacedesign__problem__formulation_1_1design__problem__query__tools.html#a81b1e6ac24b8f3be013b13c831bc2a73">design_problem_formulation.design_problem_query_tools.suggested_dependant_variables()</a>, <a class="el" href="namespacedesign__problem__formulation_1_1design__problem__query__tools__ontology__based.html#acc4026457048476ff9feab328bd5bd29">design_problem_formulation.design_problem_query_tools_ontology_based.suggested_dependant_variables()</a>, and <a class="el" href="namespacedesign__problem__formulation_1_1design__problem__query__tools__ontology__based.html#adf90766d265f353664736f9b60afe2a1">design_problem_formulation.design_problem_query_tools_ontology_based.suggested_dependant_variables_ontology_based()</a>.</p>
+
 </div>
 </div>
 <a id="afe02c7327bf578bfb5e0ea5838df70ad" name="afe02c7327bf578bfb5e0ea5838df70ad"></a>
@@ -302,18 +334,7 @@ Here is the caller graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line"><a id="l00001" name="l00001"></a><span class="lineno">    1</span>=  [<span class="stringliteral">&#39;Comparison&#39;</span>,</div>
-<div class="line"><a id="l00002" name="l00002"></a><span class="lineno">    2</span>                <span class="stringliteral">&#39;Difference&#39;</span>,</div>
-<div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span>                <span class="stringliteral">&#39;Classifier&#39;</span>,</div>
-<div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span>                <span class="stringliteral">&#39;Design_Element&#39;</span>,</div>
-<div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span>                <span class="stringliteral">&#39;Parameter&#39;</span>,</div>
-<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span>                <span class="stringliteral">&#39;Component&#39;</span>,</div>
-<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span>                <span class="stringliteral">&#39;Mode&#39;</span>,</div>
-<div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span>                <span class="stringliteral">&#39;Condition&#39;</span>,</div>
-<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span>                <span class="stringliteral">&#39;Spacecraft&#39;</span>,</div>
-<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span>                <span class="stringliteral">&#39;Subsystem&#39;</span>,</div>
-<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span>                <span class="stringliteral">&#39;Unit&#39;</span>]</div>
-</div><!-- fragment -->
+
 </div>
 </div>
 </div><!-- contents -->

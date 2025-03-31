@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['bechildof_0',['BeChildOf',['../classvariability__definition__1_1_1_be_child_of.html',1,'variability_definition_1']]]
+  ['_5frdfnamespace_0',['_RDFNamespace',['../classnamespace_1_1___r_d_f_namespace.html',1,'namespace']]]
 ];

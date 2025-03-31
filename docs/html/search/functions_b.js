@@ -1,16 +1,18 @@
 var searchData=
 [
-  ['parse_5frules_0',['parse_rules',['../classvariability__framework__core_1_1_rules.html#a89f567c2452e201de0a1098a80205eb4',1,'variability_framework_core::Rules']]],
-  ['plot_5fsankey_1',['plot_sankey',['../namespacegraph__plotting.html#a7d19d83e29b48e90791a7507e32ab6b1',1,'graph_plotting']]],
-  ['population_5fwide_5fdiff_5falgorithm_2',['population_wide_diff_algorithm',['../namespacedesign__comparison.html#aff90fb215279476a86bfacc55c437ddd',1,'design_comparison']]],
-  ['population_5fwide_5fgenerate_5fcomparison_5fstats_3',['population_wide_generate_comparison_stats',['../namespacedesign__comparison.html#abb23457bc370dfa8fc5d044dddb43842',1,'design_comparison']]],
-  ['process_5fcomponent_5fclassifier_5fdata_4',['process_component_classifier_data',['../namespacedata__extraction.html#a433e9a28284f8601b2629187d5a0007e',1,'data_extraction']]],
-  ['process_5fcondition_5fclassifier_5fdata_5',['process_condition_classifier_data',['../namespacedata__extraction.html#a5b890c699b451cd92d42b48045007141',1,'data_extraction']]],
-  ['process_5fdesign_5fdata_6',['process_design_data',['../namespacedata__extraction.html#a0c15fe4571e80f8fa573080b2c0018e7',1,'data_extraction']]],
-  ['process_5fmode_5fclassifier_5fdata_7',['process_mode_classifier_data',['../namespacedata__extraction.html#ad71fae2de0fa13ce076bcb151f40d8c3',1,'data_extraction']]],
-  ['process_5fparameter_5fclassifier_5fdata_8',['process_parameter_classifier_data',['../namespacedata__extraction.html#a32e30d27699c7d767f5d47b0ef895878',1,'data_extraction']]],
-  ['process_5frelationships_9',['process_relationships',['../namespacedatabase__tools.html#a228c3b33ee4d871f11e1ea19b6c3645f',1,'database_tools']]],
-  ['process_5frelationships_5fto_5fgeneric_10',['process_relationships_to_generic',['../namespacedatabase__tools.html#a3e8c1466d8ba9cacd604abbad870a407',1,'database_tools']]],
-  ['process_5fvalid_5frelationships_11',['process_valid_relationships',['../namespaceontology__checking.html#a7ff0d5cf1950e2fcb5f4a79cf49a1bcc',1,'ontology_checking']]],
-  ['property_5fcomparison_12',['property_comparison',['../namespacedesign__comparison.html#a3450cc9e53477b838aa094abb9501aab',1,'design_comparison']]]
+  ['list_5fclassifiers_5fof_5ftype_0',['list_classifiers_of_type',['../namespacedesign__editing_1_1design__edit__tools.html#a0e385e6d243c3b5db78a851a5881f022',1,'design_editing::design_edit_tools']]],
+  ['list_5fdesign_5felement_5fnames_1',['list_design_element_names',['../namespacedesign__problem__formulation_1_1product__line__engineering.html#a48c147fc0b89ed7951e3e67c2c2eb51a',1,'design_problem_formulation::product_line_engineering']]],
+  ['list_5fdomain_5flabels_2',['list_domain_labels',['../namespacedesign__editing_1_1design__edit__tools.html#ad3a7977fd7fb9f6224c0732c387b4918',1,'design_editing::design_edit_tools']]],
+  ['list_5fexisting_5ffeatures_3',['list_existing_features',['../namespacedesign__problem__formulation_1_1product__line__engineering.html#ade56b78b175d39219e81fc3c8c4daca1',1,'design_problem_formulation::product_line_engineering']]],
+  ['list_5ffunctions_4',['list_functions',['../namespacedesign__editing_1_1design__edit__tools.html#ad784a1a0dd70fef3d18841d321ea694a',1,'design_editing::design_edit_tools']]],
+  ['list_5fmodes_5',['list_modes',['../namespacedesign__editing_1_1design__edit__tools.html#a6d63064eecdce7e29f8a225d14bb134c',1,'design_editing::design_edit_tools']]],
+  ['list_5frequirement_5fnames_6',['list_requirement_names',['../namespacedesign__problem__formulation_1_1product__line__engineering.html#a0c6efacbdb598567822b8a25ac4a2ef0',1,'design_problem_formulation::product_line_engineering']]],
+  ['list_5fsub_5fclass_5flabels_7',['list_sub_class_labels',['../namespacedesign__editing_1_1design__edit__tools.html#abcd724216cd1a589c89a8b8e743fba1e',1,'design_editing::design_edit_tools']]],
+  ['lists_5foverlap_8',['lists_overlap',['../namespacemapping__definition__1.html#a3d6c4d56a57e8fd7e6421f9e442bc10e',1,'mapping_definition_1']]],
+  ['load_5fclassifier_5frules_9',['load_classifier_rules',['../namespacevariability__framework__tools_1_1variability__framework__textual__core.html#add913df18328b9e2b5b0abf3da94d34f',1,'variability_framework_tools::variability_framework_textual_core']]],
+  ['load_5fcomplex_5fmission_5frequirements_10',['load_complex_mission_requirements',['../namespacedatabase__interaction_1_1data__extraction.html#a79ee0d0ca08083f6d5e2598ca736a222',1,'database_interaction::data_extraction']]],
+  ['load_5fcurrent_5fset_11',['load_current_set',['../namespacetest__result__viewer.html#a9e238c61c1fec4b893b37276f8bfb644',1,'test_result_viewer']]],
+  ['load_5fdesigns_12',['Load_designs',['../namespaceload__designs.html#a8304f3bc48aa484f05fd1a98d3141645',1,'load_designs']]],
+  ['load_5fmission_5frequirements_13',['load_mission_requirements',['../namespacedatabase__interaction_1_1data__extraction.html#a793e940ec5b0aef33a0d63666babbe60',1,'database_interaction::data_extraction']]],
+  ['localise_5fcontext_5fto_5fdesign_14',['localise_context_to_design',['../namespacedesign__problem__formulation_1_1design__problem__query__tools.html#adbb8180e799e38b576f38b7f4747c3b4',1,'design_problem_formulation.design_problem_query_tools.localise_context_to_design()'],['../namespacedesign__problem__formulation_1_1design__problem__query__tools__ontology__based.html#a12193b4a9d6c9bd0a5ed76e7ba135c01',1,'design_problem_formulation.design_problem_query_tools_ontology_based.localise_context_to_design()']]]
 ];
